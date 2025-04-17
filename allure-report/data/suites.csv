@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"This test verifies login with valid credentials.","7102","testValidLogin()","","Fri Apr 11 18:40:53 PDT 2025","passed","Fri Apr 11 18:41:00 PDT 2025","","tests.LoginPageTest","tests.LoginPageTest","testValidLogin"
+"Verify that the user should not be able to login with invalid credentials","2268","testLoginWithInvalidUsername()","","Tue Apr 15 19:15:59 PDT 2025","passed","Tue Apr 15 19:16:01 PDT 2025","","tests.LoginPageTests","tests.LoginPageTests","testLoginWithInvalidUsername"
+"This test verifies login with valid credentials.","14301","testValidLogin()","","Tue Apr 15 19:15:45 PDT 2025","passed","Tue Apr 15 19:15:59 PDT 2025","","tests.LoginPageTests","tests.LoginPageTests","testValidLogin"
